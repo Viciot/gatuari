@@ -1,0 +1,19 @@
+{
+  "name": "gatuari",
+  "version": "1.0.0",
+  "description": "Cooperative proyect between 3 Ironhackers: 2 Full Stack bootcamp and 1 UX/UI Design bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viciot/gatuari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viciot/gatuari/issues"
+  },
+  "homepage": "https://github.com/Viciot/gatuari#readme"
+}
